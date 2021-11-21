@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=NailcanArslan&show_icons=true">
 
 # Merhaba, ben Nailcan Arslan! 
