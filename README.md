@@ -1,6 +1,5 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=NailcanArslan&show_icons=true">
-
 # Merhaba, ben Nailcan Arslan! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NailcanArslan" alt="NailcanArslan" /> </p>
 
