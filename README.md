@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nailcan Arslan</h1>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=NailcanArslan&show_icons=true">
 
 # Hi, I'm Nailcan Arslan! 
