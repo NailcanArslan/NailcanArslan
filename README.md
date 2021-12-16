@@ -1,6 +1,6 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=NailcanArslan&show_icons=true">
-<h1 align="right">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nailcan Arslan</h1> 
+<h1 align="left">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nailcan Arslan</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NailcanArslan" alt="NailcanArslan" /> </p>
 
 [![](https://img.shields.io/github/followers/NailcanArslan?style=social)](https://www.github.com/NailcanArslan)
