@@ -1,5 +1,5 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=NailcanArslan&show_icons=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailcanArslan&theme=github_dark&show_icons=true)
 <h1 align="left">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nailcan Arslan</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NailcanArslan" alt="NailcanArslan" /> </p>
 
@@ -10,5 +10,5 @@
 [![Mail Badge](https://img.shields.io/badge/n.arslan98@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.arslan98@gmail.com)](mailto:n.arslan98@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailcanArslan&theme=github_dark&show_icons=true)
+
 
