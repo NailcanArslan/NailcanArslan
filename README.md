@@ -9,6 +9,6 @@
 
 [![Mail Badge](https://img.shields.io/badge/n.arslan98@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.arslan98@gmail.com)](mailto:n.arslan98@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NailcanArslan=anuraghazra&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NailcanArslan&theme=github_dark&show_icons=true)
 
 
