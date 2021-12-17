@@ -11,6 +11,6 @@
 
 <br />
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NailcanArslan&layout=compact&hide=html" alt="NailcanArslan" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NailcanArslan&layout=compact&hide=html" alt="NailcanArslan" /></p>
 
 
