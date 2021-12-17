@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nailcanarslan/)
 
 [![Mail Badge](https://img.shields.io/badge/n.arslan98@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.arslan98@gmail.com)](mailto:n.arslan98@gmail.com)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eserozvataf&layout=compact&hide=html" alt="eserozvataf" /></p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NailcanArslan=anuraghazra&theme=github_dark&show_icons=true)
 
 
