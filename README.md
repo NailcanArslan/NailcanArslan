@@ -9,7 +9,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/n.arslan98@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.arslan98@gmail.com)](mailto:n.arslan98@gmail.com)
 
-<br />
+
 <br />
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NailcanArslan&layout=compact&hide=html" alt="NailcanArslan" /></p>
 
