@@ -11,4 +11,3 @@
 
 
 
-<iframe src="https://giphy.com/embed/cmlyaySFQdYCVRaKip" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/flag-turkish-cmlyaySFQdYCVRaKip">via GIPHY</a></p>
