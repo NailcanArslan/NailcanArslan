@@ -10,4 +10,5 @@
 [![Mail Badge](https://img.shields.io/badge/n.arslan98@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.arslan98@gmail.com)](mailto:n.arslan98@gmail.com)
 
 
+![Aseprite_Training4_Spartan4](https://user-images.githubusercontent.com/79597752/160669696-fca32583-f35f-43ee-b013-ffc830df88f2.gif)
 
