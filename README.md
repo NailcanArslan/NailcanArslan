@@ -10,4 +10,4 @@
 [![Mail Badge](https://img.shields.io/badge/n.arslan98@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.arslan98@gmail.com)](mailto:n.arslan98@gmail.com)
 
 
- <img src = "https://twitter.com/i/status/1507783181042438145.gif" width = 30px>
+
