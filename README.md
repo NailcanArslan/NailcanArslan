@@ -10,4 +10,4 @@
 [![Mail Badge](https://img.shields.io/badge/n.arslan98@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.arslan98@gmail.com)](mailto:n.arslan98@gmail.com)
 
 
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6913551465739362305" height="631" width="504" frameborder="0" allowfullscreen="" title="Gömülü gönderi"></iframe>
