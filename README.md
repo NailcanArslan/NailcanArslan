@@ -1,6 +1,6 @@
 
 
-<h1 align="left"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 1px >Hi, I'm Nailcan Arslan</h1> 
+Hi, I'm Nailcan Arslan</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NailcanArslan" alt="NailcanArslan" /> </p>
 
 [![](https://img.shields.io/github/followers/NailcanArslan?style=social)](https://www.github.com/NailcanArslan)
