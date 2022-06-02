@@ -1,5 +1,3 @@
-
-
 Hi, I'm Nailcan Arslan</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NailcanArslan" alt="NailcanArslan" /> </p>
 
