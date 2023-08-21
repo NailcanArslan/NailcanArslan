@@ -1,8 +1,8 @@
 <h1>Hi, I'm Nailcan Arslan</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NailcanArslan" alt="NailcanArslan" /> </p>
-
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/NailcanArslan/https://www.github.com/NailcanArslan">
 [![](https://img.shields.io/github/followers/NailcanArslan?style=social)](https://www.github.com/NailcanArslan)
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/:user/:repo">
+
 
 
 
