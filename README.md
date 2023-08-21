@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NailcanArslan" alt="NailcanArslan" /> </p>
 
 [![](https://img.shields.io/github/followers/NailcanArslan?style=social)](https://www.github.com/NailcanArslan)
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/NailcanArslan/NailcanArslan">
+
 
 
 
